@@ -6,10 +6,8 @@ import os
 def index():
     name = 'APT Spring 2015'
     participants = [
-<<<<<<< HEAD
        'German Ilyin',
-       'Serik Begadil'
-=======
+       'Serik Begadil',
         "#20 Robert Pattinson",
         "#19 Kesha",
         "#18 Megan Fox",
@@ -30,8 +28,7 @@ def index():
         "#4 Eminem",
         "#3 Miley Cyrus",
         "#2 Lady Gaga",
-        "#1 Justin Bieber",
->>>>>>> the_origin/conflict
+        "#1 Justin Bieber"
     ]
     return template("""
     <h1>HW2 for {{course}}</h1>

@@ -54,9 +54,7 @@ We will be working on simple web project. It is deployed and available on <https
  * 12 Lil Wayne
  * 11 Kim Kardashian
  * German Ilyin
-<<<<<<< HEAD
  * Serik Begadil
-=======
  * 10 Drake
  * 9 Katy Perry
  * 8 Obama
@@ -67,7 +65,6 @@ We will be working on simple web project. It is deployed and available on <https
  * 3 Miley Cyrus
  * 2 Lady Gaga
  * 1 Justin Bieber
->>>>>>> the_origin/conflict
 
 ## Git commands you might need
 
